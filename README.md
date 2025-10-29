@@ -7,8 +7,8 @@
 - 🎮 I like to play hard games
 
 ### Connect with me:
+[<img align="left" alt="HaRv1nGs | VK" width="30px" src="https://tkanitex.ru/wp-content/uploads/2024/11/vk-1536x869.png" />][vk]
 
-[<img align="left" alt="HaRv1nGs | VK" width="22px" src="https://tkanitex.ru/wp-content/uploads/2024/11/vk-1536x869.png" />][vk]
 
 
 ## Languages and Tools:
