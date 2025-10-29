@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hello there ✋, i'm Maxim
 
-<!--
-**HaRv1nGs/HaRv1nGs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a BackEnd Developer
+- 👨‍💻 I like to write code 
+- 🌌 I like to challenge myself
+- 🎉 I am constantly learning
+- 🎮 I like to play hard games
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://f.sravni.ru/cms/uploads/2025/01/236638-tbv7jmgx5ylaeri6z9o0.png" />][tg]
+
+### Languages and Tools:
+- 1️⃣ Golang
+- 2️⃣ VS Code
+- 3️⃣ GitHub, Git Actions
+- 4️⃣ Docker, Docker Hub
+
+
+[vk]: https://vk.com/harv1ngs
+[tg]: @HaRv1nGs
