@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://f.sravni.ru/cms/uploads/2025/01/236638-tbv7jmgx5ylaeri6z9o0.png" />][tg]
+[<img align="left" alt="HaRv1nGs | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="HaRv1nGs | tg" width="22px" src="https://f.sravni.ru/cms/uploads/2025/01/236638-tbv7jmgx5ylaeri6z9o0.png" />][tg]
 
 ### Languages and Tools:
 - 1️⃣ Golang
